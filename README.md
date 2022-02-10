@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/Sktro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sktro&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sktros&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sktro&hide=contribs,prs&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sktro&layout=compact"/>
 </div>
 
 
