@@ -7,6 +7,7 @@
 
 ### Connect with me:
 [<img align="left" alt="web" width="26px" src="https://www.pngitem.com/pimgs/m/2-23455_website-logo-png-transparent-background-clipart-png-transparent.png" />][website]
+[<img align="left" alt="web" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />][telegram]
 [<img align="left" alt="ArtemPetrov | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="ArtemPetrov | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="ArtemPetrov | VK" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vk]
@@ -34,6 +35,7 @@
 
 
 [website]: https://github.com/Sktro
+[telegram]: https://t.me/vozimopt
 [linkedin]: https://www.linkedin.com/
 [instagram]: https://www.instagram.com/yissssss/
 [vk]: https://vk.com/armsport_tver
