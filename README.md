@@ -29,8 +29,11 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sktro&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sktro&layout=compact)
+<div align="center">
+  <a href="https://github.com/Sktro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sktro&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sktros&layout=compact&langs_count=7"/>
+</div>
 
 
 [website]: https://github.com/Sktro
