@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Artem
-
+![](https://komarev.com/ghpvc/?username=Sktro)
 ## I'm a FrontEnd Developer
 - 💻 I like to write code
 - 💪 I love doing sports
